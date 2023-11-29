@@ -1,0 +1,19 @@
+{
+    "name": "stadtwerk",
+    "version": "1.0.0",
+    "description": "Presentation on artificial intelligence.",
+    "main": "index.html",
+    "author": "Finn Kumkar <kumkar@stadtwerk.org>",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {},
+    "devDependencies": {
+        "@marp-team/marp-cli": "3.4.0",
+        "open-cli": "7.2.0"
+    },
+    "scripts": {
+        "build": "npx marp --theme gaia index.md",
+        "watch": "npx marp --theme gaia --watch --preview index.md",
+        "start": "npx open-cli index.html"
+    }
+}
