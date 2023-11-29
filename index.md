@@ -15,6 +15,7 @@ Finn Kumkar / 30.11.2023
 5. Falsche Annahmen zu LLMs
 6. DEMO - Stable Diffusion
 7. Offene Diskussion
+8. Material
 
 ---
 
@@ -153,7 +154,7 @@ Large Language and Vision Assistant (LLaVA) **7B** auf ThinkPad P52
 
 ---
 
-## Material
+## 8. Material
 
 Präsentation
 https://github.com/countzero/presentation_on_artificial_intelligence
