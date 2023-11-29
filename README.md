@@ -1,6 +1,6 @@
-# Presentation AI
+# Presentation on Artificial Intelligence
 
-Presentation on artificial intelligence.
+Presentation on Artificial Intelligence for the [Free Drawing and Print Graphics](https://en.muthesius-kunsthochschule.de/free-drawing-and-print-graphics/) class of the Muthesius Academy of Art.
 
 ## Installation
 

@@ -1,7 +1,7 @@
 {
     "name": "stadtwerk",
     "version": "1.0.0",
-    "description": "Presentation on artificial intelligence.",
+    "description": "Presentation on Artificial Intelligence.",
     "main": "index.html",
     "author": "Finn Kumkar <kumkar@stadtwerk.org>",
     "license": "MIT",
