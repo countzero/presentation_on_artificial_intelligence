@@ -12,8 +12,9 @@ Finn Kumkar / 30.11.2023
 2. Einführung
 3. DEMO - Large Language Models
 4. DEMO - Large Multimodal Models
-5. DEMO - Stable Diffusion
-6. ...
+5. Falsche Annahmen zu LLMs
+6. DEMO - Stable Diffusion
+7. Offene Diskussion
 
 ---
 
@@ -123,12 +124,43 @@ Large Language and Vision Assistant (LLaVA) **7B** auf ThinkPad P52
 
 ---
 
-## 5. DEMO - Stable Diffusion
+## 5. Falsche Annahmen zu LLMs
+
+1. AI hat ein Bewusstsein und denkt wie ein Mensch.
+
+2. AI lernt wenn man sich mit ihr unterhält.
+
+3. AI wird menschliche Kreativität und Arbeit ersetzen.
+
+---
+
+## 6. DEMO - Stable Diffusion
 
 *Stable Diffusion 1.5*
 
-5.1 TODO
+6.1 Text zu Bild Generierung
+6.2 Bild zu Bild Generierung
 
 *Stable Diffusion XL*
 
-5.2 TODO
+6.3 Text zu Bild Generierung
+
+---
+
+## 7. Offene Diskussion
+
+### Danke fürs Zuhören!
+
+---
+
+## Material
+
+Präsentation
+https://github.com/countzero/presentation_on_artificial_intelligence
+
+Software für Large Language Models
+https://github.com/ggerganov/llama.cpp
+https://github.com/countzero/windows_llama.cpp
+
+Software für Stable Diffusion
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
